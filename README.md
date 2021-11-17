@@ -36,3 +36,23 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
 2. [Data Protection for Organisations](https://ico.org.uk/for-organisations/)
 2.1 [GDPR Checklist](https://gdprchecklist.io/)
 3. [ICO Children's Code](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/)
+
+## Cyber Choices
+
+These resources are recommended by [Cyber Choices](https://www.cyberchoices.uk) project run by the National Crime Agency. 
+
+#### Coding
+1. [Code Academy](https://www.codeacademy.com)
+2. [Free Code Camp](https://www.freecodecamp.com)
+
+#### Skills challenges / Training
+
+1. [Cyber Security Challenge](https://www.cybersecuritychallenge.co.uk)
+2. [Hack the box](https://hackthebox.eu)
+3. [Vulnhub](https://www.vulnhub.com)
+4. [Cybrary](https://www.cybrary.it)
+5. [SANS Cyber Aces](https://www.cyberaces.org)
+#### Goverment Programmes 
+
+1. [Cyber First Bursary and Degree Apprenticeship](https://www.ncsc.gov.uk/cyberfirst/overview) - Undergraduates can apply for up to £4000 per year financial assistance for up to four years, plus paid Cyber Security training each summer. 
+
