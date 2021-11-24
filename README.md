@@ -18,18 +18,44 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
 
 ## Law
 
-#### Legal Definitions
+### Legal Definitions
 1. [Actus Reus](https://e-lawresources.co.uk/Actus-reus.php) - The Act (Physical)
 2. [Mens Rea](https://e-lawresources.co.uk/Mens-rea-intention.php) - The Intent (Mental)
 3. [Ignorantia juris non excusat](https://thelawpedia.co.uk/ignorantia-juris-non-excusat/) - Ignorance of the law is no excuse.
 
-#### Computing Specific Laws
+### Computing Specific Laws
 1. [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 2. [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)
 3. [Investigatory Powers Act 2016](https://www.gov.uk/government/collections/investigatory-powers-bill) | [Read more heres](https://bills.parliament.uk/bills/1749)
 4. [Malicious Communications Act 1988](https://www.legislation.gov.uk/ukpga/1988/27/section/1)
 
+### Online Harms Bill 
+1. [Online Harms White Paper - Government Response](https://www.gov.uk/government/consultations/online-harms-white-paper/outcome/online-harms-white-paper-full-government-response)
+2. [Online Harms White Paper](https://www.gov.uk/government/consultations/online-harms-white-paper/online-harms-white-paper)
+3. [Online Harms Bill Press Release](https://www.gov.uk/government/news/landmark-laws-to-keep-children-safe-stop-racial-hate-and-protect-democracy-online-published)
 
+
+
+4. [Parliamentary Committee - Online Harms Bill](https://committees.parliament.uk/work/1432/online-safety-and-online-harms/)
+    - 4.1 [Facebook Evidence [PDF]](https://committees.parliament.uk/writtenevidence/39559/pdf/) | [HTML Version](https://committees.parliament.uk/writtenevidence/39559/html/)
+    - 4.2 [Internet Watch Foundation Evidence [PDF]](https://committees.parliament.uk/writtenevidence/39541/pdf/) | [HTML Version](https://committees.parliament.uk/oralevidence/2983/html/)
+    - 4.3 [Age Verification Providers Association, Internet Service Providers Association, and Yoti Evidence [PDF]](https://committees.parliament.uk/oralevidence/2984/pdf/) | [HTML Version](https://committees.parliament.uk/oralevidence/2984/html/)
+    - 4.4 [Correspondence to the Committee](https://committees.parliament.uk/work/1432/online-safety-and-online-harms/publications/3/correspondence/)
+        - 4.4.1 [Nadine Dories Letter](/img/letter-nadine-dorries.png)
+    - 4.5 [Big Brother Watch Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38675/html/)
+    - 4.6 [Open Rights Group Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38614/html/)
+    - 4.7 [Legal to Say, Legal to Type Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38625/html/)
+    - 4.8 [Mumsnet Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38578/html/)
+    - 4.9 [Alan Turing Institute Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38395/html/)
+    - 4.10 [Epilepsy Society Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38476/html/)
+    
+
+
+**Thought experiment:**
+
+![Screenshot of Pressrelease](/img/screenshot-pr.png "Screenshot of PR")
+
+ How can/will this law protection children, stop racial hatred or protect democracy? 
 ## Professionalism
 1. [BCS](https://www.bcs.org/)
     1.1. [BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
