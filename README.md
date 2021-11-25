@@ -75,6 +75,7 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
 3. [ICO Children's Code](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/)
 4. [Code of Practice for Consumer IoT Security](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
 5. [ETSI Industry standard Code of Practice](https://www.gov.uk/government/publications/etsi-industry-standard-based-on-the-code-of-practice)
+6. [Electronic Communications Code](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/policy/electronic-comm-code)
 
 ## Cyber Choices
 
