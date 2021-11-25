@@ -56,11 +56,15 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
 ![Screenshot of Pressrelease](/img/screenshot-pr.png "Screenshot of PR")
 
  How can/will this law protection children, stop racial hatred or protect democracy? 
+
+ Can this law or technology really curb these things? 
+
+ 
 ## Professionalism
 1. [BCS](https://www.bcs.org/)
-    1.1. [BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
+   -  1.1. [BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
 2. [Data Protection for Organisations](https://ico.org.uk/for-organisations/)
-2.1 [GDPR Checklist](https://gdprchecklist.io/)
+    - 2.1 [GDPR Checklist](https://gdprchecklist.io/)
 3. [ICO Children's Code](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/)
 
 ## Cyber Choices
