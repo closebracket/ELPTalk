@@ -16,6 +16,12 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
 5. [Right to be offended does not exist - High Court Judge](https://www.dailymail.co.uk/news/article-7710009/Right-offended-does-not-exist-says-High-Court-judge.html)
 
 
+![Self Interest v Group Interest](/img/selfinterestvgroupinterest.png "SIvGI")
+A diagram of Societal (Symbiotic) 
+interests verses Individual interests (Schneier, 
+n.d.)
+
+
 ## Law
 
 ### Legal Definitions
