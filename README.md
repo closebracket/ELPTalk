@@ -49,8 +49,6 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
     - 4.9 [Alan Turing Institute Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38395/html/)
     - 4.10 [Epilepsy Society Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38476/html/)
     
-
-
 **Thought experiment:**
 
 ![Screenshot of Pressrelease](/img/screenshot-pr.png "Screenshot of PR")
@@ -59,13 +57,24 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
 
  Can this law or technology really curb these things? 
 
- 
+ Are there ways that people / technology could evade this law?
+
+ ### The Product Security and Telecommunications Infrastructure (PSTI) Bill 
+1. [Factsheet](https://www.gov.uk/government/collections/the-product-security-and-telecommunications-infrastructure-psti-bill-factsheets)
+2. [Secure by Design](https://www.gov.uk/government/collections/secure-by-design)
+    2.1 [Secure By Design Report](https://www.gov.uk/government/publications/secure-by-design-report)
+3. [Regulating consumer smart product cyber security - government response](https://www.gov.uk/government/publications/regulating-consumer-smart-product-cyber-security-government-response)
+4. [Consultation on regulatory proposals on consumer IoT Security](https://www.gov.uk/government/consultations/consultation-on-regulatory-proposals-on-consumer-iot-security)
+5. [New Cyber Laws to Protect People's personal tech from hackers](https://www.gov.uk/government/news/new-cyber-laws-to-protect-peoples-personal-tech-from-hackers)
+6. [Huge fines and a ban on default passwords in new UK law](https://www.bbc.co.uk/news/technology-59400762)
 ## Professionalism
 1. [BCS](https://www.bcs.org/)
    -  1.1. [BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
 2. [Data Protection for Organisations](https://ico.org.uk/for-organisations/)
     - 2.1 [GDPR Checklist](https://gdprchecklist.io/)
 3. [ICO Children's Code](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/)
+4. [Code of Practice for Consumer IoT Security](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
+5. [ETSI Industry standard Code of Practice](https://www.gov.uk/government/publications/etsi-industry-standard-based-on-the-code-of-practice)
 
 ## Cyber Choices
 
