@@ -60,7 +60,7 @@ n.d.)
      - 5.2 [Sky](https://news.sky.com/story/russia-demands-foreign-tech-companies-open-offices-in-the-country-or-face-sanctions-12477282)
      - 5.3 [RT](https://www.rt.com/russia/538100-putin-big-tech-power/)
 
-![Art installation](/img/rtimg.jpg "Art installation photo")     
+![Art installation](/img/rtimg.JPG "Art installation photo")     
     
 **Thought experiment:**
 
