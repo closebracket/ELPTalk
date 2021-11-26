@@ -16,7 +16,7 @@ I am not a solicitor. This is not legal advice. Don't be the guy in the meme.
 5. [Right to be offended does not exist - High Court Judge](https://www.dailymail.co.uk/news/article-7710009/Right-offended-does-not-exist-says-High-Court-judge.html)
 
 
-![Self Interest v Group Interest](/img/selfinterestvgroupinterest.png "SIvGI")
+![Self Interest v Group Interest](/img/selfinterestvgroupinterest.jpg "SIvGI")
 A diagram of Societal (Symbiotic) 
 interests verses Individual interests (Schneier, 
 n.d.)
@@ -54,6 +54,13 @@ n.d.)
     - 4.8 [Mumsnet Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38578/html/)
     - 4.9 [Alan Turing Institute Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38395/html/)
     - 4.10 [Epilepsy Society Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38476/html/)
+
+5. Russia Demands Foreign Tech Companies Open Local Offices - 
+     - 5.1 [Metro](https://metro.co.uk/2021/11/25/russia-demands-foreign-tech-companies-open-offices-in-the-country-15663616/)
+     - 5.2 [Sky](https://news.sky.com/story/russia-demands-foreign-tech-companies-open-offices-in-the-country-or-face-sanctions-12477282)
+     - 5.3 [RT](https://www.rt.com/russia/538100-putin-big-tech-power/)
+
+![Art installation](/img/rtimg.jpg "Art installation photo")     
     
 **Thought experiment:**
 
